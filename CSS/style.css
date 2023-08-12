@@ -1,0 +1,13 @@
+h1{
+    color: rgb(10, 83, 83);
+    font-size: 90px;
+}
+.btnRegister{
+    color: rgb(241, 103, 4);
+    background-color: azure;
+}
+
+.btnVerdatos{
+    color: rgb(140, 216, 140);
+    background-color: azure;
+}
