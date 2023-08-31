@@ -1,0 +1,32 @@
+h1{
+    color: rgb(105, 198, 198);
+    font-size: 20px;
+}
+#nombre{
+    color: rgb(128, 17, 232);
+}
+#cedula{
+    color: rgb(157, 169, 207);
+}
+
+#direccion{
+    color: #f2ff00;
+}
+#telefono{
+    color: #c36db3;
+}
+
+#edad{
+    color: rgb(212, 138, 238);
+}
+
+#correo{
+    color: rgb(20, 56, 89);
+}
+
+#estadoCivil{
+    color: rgb(212, 15, 206);
+}
+#tipoSangre{
+    color: #ba4517;
+}
